@@ -1,0 +1,43 @@
+{
+    "name": "reign-in-blood",
+    "displayName": "Reign in Blood",
+    "description": "A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reign in Blood.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "author": {
+        "name": "Adam Chapman"
+    },
+    "respository": {
+        "type": "git",
+        "name": "https://github.com/chapmandu/reign-in-blood-vscode-theme"
+    },
+    "bugs": {
+        "type": "git",
+        "name": "https://github.com/chapmandu/reign-in-blood-vscode-theme/issues"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "Slayer",
+        "Reign in Blood",
+        "Metal",
+        "Angel of Death",
+        "Raining Blood",
+        "Black",
+        "Monokai",
+        "Cobalt2"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Reign in Blood",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Reign in Blood-color-theme.json"
+            }
+        ]
+    }
+}

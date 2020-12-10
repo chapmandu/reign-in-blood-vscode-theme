@@ -1,0 +1,61 @@
+{
+	"darkGrey": {
+		"lighter": "#273629",
+		"light": "#212e23",
+		"actual": "#19231A",
+		"dark": "#111812",
+		"darker": "#0b100c"
+	},
+	"lightGrey": {
+		"lighter": "#d8ebf0",
+		"light": "#c1d1d5",
+		"actual": "#a1a9af",
+		"dark": "#7b898e",
+		"darker": "#424c49"
+	},
+	"brightOrange": {
+		"light": "#febf66",
+		"actual": "#ffa320",
+		"dark": "#c98627"
+	},
+	"dullOrange": {
+		"light": "#e3b25b",
+		"actual": "#d4a13d",
+		"dark": "#ad8331"
+	},
+	"yellow": {
+		"light": "#ffee9c",
+		"actual": "#cfbb6b",
+		"dark": "#ac9b58"
+	},
+	"brightGreen": {
+		"actual": "#83a540"
+	},
+	"dullGreen": {
+		"light": "#5e8d4d",
+		"actual": "#577648",
+		"dark": "#3c5641",
+		"darker": "#2b3229"
+	},
+	"teal": {
+		"light": "#6da37c",
+		"actual": "#46816d",
+		"dark": "#39654f"
+	},
+	"midRed": {
+		"light": "#ce001d",
+		"actual": "#a70c29",
+		"dark": "#7e0d32"
+	},
+	"darkRed": {
+		"light": "#7a1532",
+		"actual": "#641d38",
+		"dark": "#4c1e31"
+	},
+	"brown": {
+		"lighter": "#cda976",
+		"light": "#ae8e60",
+		"actual": "#9e794a",
+		"dark": "#5e482d"
+	}
+}
