@@ -6,10 +6,8 @@
     "engines": {
         "vscode": "^1.51.0"
     },
-    "author": {
-        "name": "Adam Chapman"
-    },
-    "respository": {
+    "publisher": "chapmandu",
+    "repository": {
         "type": "git",
         "name": "https://github.com/chapmandu/reign-in-blood-vscode-theme"
     },
@@ -17,6 +15,11 @@
         "type": "git",
         "name": "https://github.com/chapmandu/reign-in-blood-vscode-theme/issues"
     },
+    "galleryBanner": {
+        "color": "#19231A",
+        "theme": "dark"
+    },
+    "icon": "assets/icon.png",
     "categories": [
         "Themes"
     ],
