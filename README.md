@@ -4,7 +4,7 @@
 
 A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reign in Blood.
 
-![Preview](assets/screenshot.png)
+![Screenshot](https://github.com/chapmandu/reign-in-blood-vscode-theme/raw/main/assets/screenshot.png)
 
 ## Installation
 
@@ -38,4 +38,4 @@ In Pull Requests, please provide screenshot'/s of your changes before & after.
 
 Are you okay?
 
-<a href="https://music.apple.com/us/album/reign-in-blood/1440928291" target="_blank"><img src="assets/Reign_in_blood_-_slayer_-_1986.png" width="300" /></a>
+![Reign in Blood](https://github.com/chapmandu/reign-in-blood-vscode-theme/raw/main/assets/Reign_in_blood_-_slayer_-_1986.png)
