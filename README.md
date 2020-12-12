@@ -2,7 +2,11 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/chapmandu.theme-reign-in-blood.svg)](https://marketplace.visualstudio.com/items?itemName=chapmandu.theme-reign-in-blood)
 
-![Preview](https://github.com/chapmandu/reign-in-blood-vscode-theme/blob/main/assets/screenshot.png)
+A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reign in Blood.
+
+| ![Reign in Blood](assets/Reign_in_blood_-_slayer_-_1986.png)  | ![Palette](assets/Reign_in_blood_-_slayer_-_1986-saturated.png) |
+
+![Preview](assets/screenshot.png)
 
 ## Installation
 
