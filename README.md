@@ -9,7 +9,7 @@ A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reig
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Reign in Blood`
+2. Search for `Reign`
 3. Click **Install** to install it.
 4. Code > Preferences > Color Theme > **Reign in Blood**
 
