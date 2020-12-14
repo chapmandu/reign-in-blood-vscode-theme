@@ -100,7 +100,7 @@
 		"terminal.border": "#a1a9af",
 		"terminal.foreground": "#a1a9af",
 		"terminal.selectionBackground": "#9d2d3330",
-		"textLink.foreground": "#6d90a7",
+		"textLink.foreground": "#a18933",
 		"titleBar.activeBackground": "#24271e",
 		"titleBar.activeForeground": "#7b898e",
 		"titleBar.inactiveBackground": "#24271e",
@@ -173,7 +173,7 @@
 			"name": "support.function.std.rust",
 			"scope": "support.function.std.rust",
 			"settings": {
-				"foreground": "#a1a9af"
+				"foreground": "#eca610"
 			}
 		},
 		{
@@ -439,10 +439,10 @@
 			}
 		},
 		{
-			"name": "js variable readwrite",
+			"name": "variable readwrite",
 			"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 			"settings": {
-				"foreground": "#91c495"
+				"foreground": "#b1bdac"
 			}
 		},
 		{
@@ -483,7 +483,7 @@
 			"name": "js console function",
 			"scope": "entity.name.function,support.function.console",
 			"settings": {
-				"foreground": "#edbe30"
+				"foreground": "#eca610"
 			}
 		},
 		{
@@ -709,6 +709,13 @@
 			}
 		},
 		{
+			"name": "Support",
+			"scope": "support.function",
+			"settings": {
+				"foreground": "#eca610"
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": "entity.name.type.namespace",
 			"settings": {
@@ -801,13 +808,6 @@
 			"scope": "token.storage.type.java",
 			"settings": {
 				"foreground": "#f0db68"
-			}
-		},
-		{
-			"name": "Support",
-			"scope": "support.function",
-			"settings": {
-				"foreground": "#a1a9af"
 			}
 		},
 		{
