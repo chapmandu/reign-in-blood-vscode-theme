@@ -33,7 +33,7 @@
 		"editorError.foreground": "#ce0106",
 		"editorGroup.emptyBackground": "#171914",
 		"editorGroup.border": "#171914",
-		"editorGroupHeader.tabsBackground": "#24271e",
+		"editorGroupHeader.tabsBackground": "#171914",
 		"editorHoverWidget.background": "#24271e",
 		"editorHoverWidget.border": "#171914",
 		"editorIndentGuide.activeBackground": "#d8ebf059",
