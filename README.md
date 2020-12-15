@@ -15,6 +15,13 @@ A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reig
 
 See [assets/palette.json](https://github.com/chapmandu/reign-in-blood-vscode-theme/blob/main/assets/palette.json)
 
+## TO DO
+
+- CSS attributes & pseudo elements
+- Brighten punctuation.definition.template-expression.begin
+- Palette image
+- Screenshots of code samples
+
 ## Contributing
 
 To work on the theme:
