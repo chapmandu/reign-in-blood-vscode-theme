@@ -2,6 +2,7 @@
 	"colors": {
 		"activityBar.background": "#1f211a",
 		"activityBar.foreground": "#a2b3b8",
+		"activityBar.activeBorder": "#9d2d33",
 		"activityBarBadge.background": "#9d2d33",
 		"activityBarBadge.foreground": "#c1d1d5",
 		"badge.background": "#9d2d33",
