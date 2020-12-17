@@ -107,13 +107,13 @@
 		"terminal.ansiBrightBlack": "#424c49",
 		"terminal.ansiBrightBlue": "#6d90a7",
 		"terminal.ansiBrightCyan": "#4eae70",
-		"terminal.ansiBrightGreen": "#c9cd56",
+		"terminal.ansiBrightGreen": "#849547",
 		"terminal.ansiBrightMagenta": "#bf3a50",
 		"terminal.ansiBrightRed": "#ce0106",
 		"terminal.ansiBrightWhite": "#c1d1d5",
 		"terminal.ansiBrightYellow": "#f0db68",
 		"terminal.ansiCyan": "#348655",
-		"terminal.ansiGreen": "#849547",
+		"terminal.ansiGreen": "#437f47",
 		"terminal.ansiMagenta": "#bf3a50",
 		"terminal.ansiRed": "#b30317",
 		"terminal.ansiWhite": "#c1d1d5",
@@ -124,7 +124,7 @@
 		"terminal.selectionBackground": "#9d2d3330",
 		"terminalCursor.background": "#c1d1d5c9",
 		"terminalCursor.foreground": "#b30317",
-		"textLink.foreground": "#a18933",
+		"textLink.foreground": "#4eae70",
 		"titleBar.activeBackground": "#24271e",
 		"titleBar.activeForeground": "#7b898e",
 		"titleBar.inactiveBackground": "#24271e",
@@ -1446,7 +1446,7 @@
 				"punctuation.section.embedded"
 			],
 			"settings": {
-				"foreground": "#747f4a"
+				"foreground": "#a18933"
 			}
 		},
 		{
