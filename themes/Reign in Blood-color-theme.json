@@ -70,6 +70,8 @@
 		"notificationToast.border": "#9d2d33",
 		"panelTitle.activeBorder": "#9d2d33",
 		"panelSectionHeader.background": "#24271e",
+		"panel.background": "#1f211a",
+		"panel.border": "#2a2e23",
 		"peekViewEditor.background": "#1f211a",
 		"peekViewEditor.matchHighlightBackground": "#355939",
 		"peekViewResult.background": "#24271e",
