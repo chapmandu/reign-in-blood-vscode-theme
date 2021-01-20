@@ -15,7 +15,7 @@ A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reig
 
 See [assets/palette.json](https://github.com/chapmandu/reign-in-blood-vscode-theme/blob/main/assets/palette.json)
 
-## TO DO
+## TODO
 
 - CSS attributes & pseudo elements
 - Brighten punctuation.definition.template-expression.begin
@@ -30,8 +30,9 @@ To work on the theme:
 2. Open run `View → Run`
 3. Click `Launch Extension`. This will open up another VS Code Editor
 4. Make changes to `Reign in Blood-color-theme.json`. You will see changes reflected in the other editor that opened in step 3.
+5. Await the hour of reprisal
 
-In Pull Requests, please provide screenshot'/s of your changes before & after.
+Please provide screenshots of your changes before & after in Pull Requests.
 
 ## Deploying a new version
 
