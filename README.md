@@ -40,12 +40,13 @@ To work on the theme:
 
 Please provide screenshots of your changes before & after in Pull Requests.
 
-## Deploying a new version
+## Scripts (Mainly for the publisher's use)
 
-1. Increment the version number in `package.json`
-2. run `vsce package`
-3. To be continued... (TODO: make this an npm script `npm run bundle`)
+`npm run extension:install` - Builds and installs the extension locally
+`npm run publish` - Publish (Don't forget to bump the minor version)
 
 ## I don't like Slayer
 
 Are you okay?
+
+Also check out the Megadeth [Rust in Peace](https://marketplace.visualstudio.com/items?itemName=chapmandu.rust-in-peace) theme.
