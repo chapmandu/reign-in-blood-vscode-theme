@@ -2,7 +2,7 @@
     "name": "reign-in-blood",
     "displayName": "Reign in Blood",
     "description": "A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reign in Blood.",
-    "version": "0.5.666",
+    "version": "1.0.666",
     "engines": {
         "vscode": "^1.51.0"
     },
@@ -42,5 +42,9 @@
                 "path": "./themes/Reign in Blood-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "extension:install": "vsce package && code --install-extension ./reign-in-blood-*.vsix",
+        "publish:minor": "vsce publish minor"
     }
 }
