@@ -4,6 +4,12 @@ A dark theme inspired by the album art of Slayer's 1986 thrash masterpiece, Reig
 
 ![Screenshot](https://github.com/chapmandu/reign-in-blood-vscode-theme/raw/main/assets/screenshot.png)
 
+<div style="text-align:center">
+
+![Reign in Blood](https://github.com/chapmandu/reign-in-blood-vscode-theme/raw/main/assets/Reign_in_blood_-_slayer_-_1986.png)
+
+</div>
+
 ## Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
@@ -43,5 +49,3 @@ Please provide screenshots of your changes before & after in Pull Requests.
 ## I don't like Slayer
 
 Are you okay?
-
-![Reign in Blood](https://github.com/chapmandu/reign-in-blood-vscode-theme/raw/main/assets/Reign_in_blood_-_slayer_-_1986.png)
